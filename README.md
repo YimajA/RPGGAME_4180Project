@@ -18,5 +18,5 @@ Parts Used:​
 Wiring:
 
 Demo:
-
+  
 Program:
