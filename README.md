@@ -15,7 +15,11 @@ Parts Used:​
   
       Pushbuttons
   
-Wiring:
+Wiring Schematic:
+      _________________
+
+Plot of the Game:
+      __________________
 
 Demo:
         https://youtu.be/FSfTeyy1Dsc
