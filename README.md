@@ -1,4 +1,4 @@
-# 4180FinalProject
+# RPGGAME_4180FinalProject
 ECE-4180 Final Project
 
 Parts Used:​
