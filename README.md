@@ -3,17 +3,17 @@ ECE-4180 Final Project
 
 Parts Used:​
 
-  mbed LPC1768​
+      mbed LPC1768​
   
-  uLCD-144-G2​
+      uLCD-144-G2​
   
-  MicroSD Card with SD Adapter​
+      MicroSD Card with SD Adapter​
   
-  Speaker - PCB Mount​
+      Speaker - PCB Mount​
   
-  Navigation Switch​
+      Navigation Switch​
   
-  Pushbuttons
+      Pushbuttons
   
 Wiring:
 
