@@ -10,10 +10,13 @@ Project Goal:
 Plot of the Game:
       __________________
 
+Schematic:
+      __________
+    
 Demo:
         https://youtu.be/FSfTeyy1Dsc
 
-Wiring Schematic:
+Wiring:
 
 ![Screenshot](images/Wiring.png)
 
@@ -38,9 +41,7 @@ Navigation Switch​
 Pushbuttons
 
 ![Screenshot](images/Pushbutton.jpg)
-  
-Schematic:
-    __________
+
 
 
   
