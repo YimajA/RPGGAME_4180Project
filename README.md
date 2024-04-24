@@ -1,6 +1,9 @@
 # RPGGAME_4180FinalProject
 ECE-4180 Final Project
 
+Wiring Schematic:
+![Screenshot](images/Wiring.jpg)
+
 Parts Used:​
 
 mbed LPC1768​
@@ -23,8 +26,8 @@ Pushbuttons
 
 ![Screenshot](images/Pushbutton.jpg)
   
-Wiring Schematic:
-      _________________
+Schematic:
+    __________
 
 Plot of the Game:
       __________________
