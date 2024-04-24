@@ -2,7 +2,7 @@
 ECE-4180 Final Project
 
 Wiring Schematic:
-![Screenshot](images/Wiring.jpg)
+![Screenshot](images/Wiring.png)
 
 Parts Used:​
 
