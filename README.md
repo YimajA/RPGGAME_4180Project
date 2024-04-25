@@ -28,8 +28,9 @@ https://youtu.be/FSfTeyy1Dsc
 
 Wiring:
 
-                                    ![Screenshot](images/Wiring.png)
+                    <img width="514" alt="image" src="https://github.com/YimajA/RPGGAME_4180Project/assets/168121871/13be4704-35e2-4ba2-83c2-d1114d7a358a">
 
+                                  
 Parts Used:​
 
 Discover the core components utilized in our project:
