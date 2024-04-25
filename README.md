@@ -23,6 +23,8 @@ Demo Curious to see our RPG game in action? Watch our demo video showcasing the 
 
 https://youtu.be/FSfTeyy1Dsc
 
+Plot: The main character is a young man who set out on an adventure to slay the evil presence lurking in the forest of the ancient land of the spirits.​ Inside the forest is a wizard who has been waiting for a brave young soul to purify the land.​ As the main character, the objective is to explore the forest, gain experience, and defeat the evil that lurks within.​ Once the evil has been defeated, you may choose to end your quest there, or continue to explore and get stronger.
+
 Wiring:
 
 ![Screenshot](images/Wiring.png)
