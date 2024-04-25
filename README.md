@@ -10,7 +10,8 @@ Plot of the Game:
       __________________
 
 Schematic:
-      __________
+      <img width="500" alt="image" src="https://github.com/YimajA/RPGGAME_4180Project/assets/168121871/440baaa5-3cf5-4210-8934-166ea1076ad3">
+
     
 Demo:
         https://youtu.be/FSfTeyy1Dsc
