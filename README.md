@@ -18,17 +18,14 @@ Explore the intricate wiring and connections of our project in the schematic dia
 
 <img width="514" alt="image" src="https://github.com/YimajA/RPGGAME_4180Project/assets/168121871/45b5385c-0188-4fe2-ab1b-1d23563bd3c4">
 
-
-
-    
-Demo:
-Curious to see our RPG game in action? Watch our demo video showcasing the gameplay dynamics and features.
+   
+Demo Curious to see our RPG game in action? Watch our demo video showcasing the gameplay dynamics and features.
 
 https://youtu.be/FSfTeyy1Dsc
 
 Wiring:
 
-                    <img width="514" alt="image" src="https://github.com/YimajA/RPGGAME_4180Project/assets/168121871/13be4704-35e2-4ba2-83c2-d1114d7a358a">
+      
 
                                   
 Parts Used:​
