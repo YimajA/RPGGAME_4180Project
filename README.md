@@ -24,7 +24,7 @@ Demo Curious to see our RPG game in action? Watch our demo video showcasing the 
 https://youtu.be/FSfTeyy1Dsc
 
 Wiring:
-
+![Screenshot](images/Wiring.jpg)
       
 
                                   
