@@ -11,7 +11,8 @@ Plot of the Game:
 
 Schematic:
 
-      <img width="514" alt="image" src="https://github.com/YimajA/RPGGAME_4180Project/assets/168121871/687804b7-5b94-4979-a4ae-dbb83fefdf0c">
+<img width="514" alt="image" src="https://github.com/YimajA/RPGGAME_4180Project/assets/168121871/45b5385c-0188-4fe2-ab1b-1d23563bd3c4">
+
 
 
     
