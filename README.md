@@ -23,11 +23,12 @@ Explore the intricate wiring and connections of our project in the schematic dia
     
 Demo:
 Curious to see our RPG game in action? Watch our demo video showcasing the gameplay dynamics and features.
-        https://youtu.be/FSfTeyy1Dsc
+
+https://youtu.be/FSfTeyy1Dsc
 
 Wiring:
 
-![Screenshot](images/Wiring.png)
+                                    ![Screenshot](images/Wiring.png)
 
 Parts Used:​
 
