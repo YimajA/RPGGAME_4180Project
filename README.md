@@ -11,7 +11,6 @@ Plot of the Game:
 Venture leftward to discover a cave entrance represented by a distinct gray square. Position your character within the region and press the action button to teleport into Wizard Buzz’s sinister lair. To vanquish Wizard Buzz, stand on the correct spell tile and activate it using the action button. Listen closely to the NPC's advice; the correct spell, indicated by a blue water drop sprite, is crucial for victory.
 After defeating Wizard Buzz, witness its transformation into a humble bee. Navigate your character to the staircase on the far left to exit the room and return to the NPC. Receive a key as a token of appreciation from the NPC. To complete the game, journey to the far right until you encounter a golden gate door. Approach the door, utilize the action key to unlock the chest, and revel in the triumphant "You Win!" screen.
 
-
 Schematic:
 Explore the intricate wiring and connections of our project in the schematic diagram provided below.
 
@@ -19,7 +18,7 @@ Explore the intricate wiring and connections of our project in the schematic dia
 <img width="514" alt="image" src="https://github.com/YimajA/RPGGAME_4180Project/assets/168121871/45b5385c-0188-4fe2-ab1b-1d23563bd3c4">
 
    
-Demo Curious to see our RPG game in action? Watch our demo video showcasing the gameplay dynamics and features.
+Demo: Curious to see our RPG game in action? Watch our demo video showcasing the gameplay dynamics and features.
 
 https://youtu.be/FSfTeyy1Dsc
 
@@ -35,16 +34,21 @@ Parts Used:​
 
 Discover the core components utilized in our project:
 - **mbed LPC1768**: The foundation of our microcontroller system.
+  
 ![Screenshot](images/mbedlpc.jpg)
 - **uLCD-144-G2**: The LCD screen, offering vibrant visuals and user interaction.
+  
 ![Screenshot](images/uLCD-144-G2.jpg)
 - **Speaker - PCB Mount**: Enhancing gameplay with immersive audio feedback.
+  
 ![Screenshot](images/PCBMountSpeaker.jpg)
 
 - **Navigation Switch**: Providing intuitive control for character movement.
+  
   ![Screenshot](images/NavigationSwitch.jpg) 
 
 - **Pushbuttons**: Essential for interacting with in-game elements and NPCs.
+  
 ![Screenshot](images/Pushbutton.jpg)
 
 
