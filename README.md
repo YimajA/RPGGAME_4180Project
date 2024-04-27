@@ -35,13 +35,13 @@ Parts Used:​
 Discover the core components utilized in our project:
 - **mbed LPC1768**: The foundation of our microcontroller system.
   
-![Screenshot](images/mbedlpc.jpg)
+  ![Screenshot](images/mbedlpc.jpg)
 - **uLCD-144-G2**: The LCD screen, offering vibrant visuals and user interaction.
   
-![Screenshot](images/uLCD-144-G2.jpg)
+  ![Screenshot](images/uLCD-144-G2.jpg)
 - **Speaker - PCB Mount**: Enhancing gameplay with immersive audio feedback.
   
-![Screenshot](images/PCBMountSpeaker.jpg)
+  ![Screenshot](images/PCBMountSpeaker.jpg)
 
 - **Navigation Switch**: Providing intuitive control for character movement.
   
@@ -49,6 +49,6 @@ Discover the core components utilized in our project:
 
 - **Pushbuttons**: Essential for interacting with in-game elements and NPCs.
   
-![Screenshot](images/Pushbutton.jpg)
+  ![Screenshot](images/Pushbutton.jpg)
 
 
